@@ -2,7 +2,7 @@
 
 Problems solving for [Rosalind.net](https://www.rosalind.net) great website. It has:
 * My solutions
-* Others great solutions
+* Others great and perfect solutions
 * Hybrid solutions
 
 ![Alt text](pics/genetic_code.png?raw=true "RNA Strings")
