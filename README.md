@@ -1,6 +1,6 @@
 # bioinformatics
 
-Problems solving for [Rosalind.net](https://www.rosalind.net) great website. It has:
+Problems solving for [Rosalind.info](https://www.rosalind.net) great website. It has:
 * My solutions
 * Others great and perfect solutions
 * Hybrid solutions
